@@ -1,4 +1,4 @@
-# Vue 3 + TypeScript + TailwindCSS, Router, Vite, Storybook
+# Vue3, Storybook, TailwindCSS, Router, Vite, TypeScript
 
 ## Vue3 Storybook starter
 
